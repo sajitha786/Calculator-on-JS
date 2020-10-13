@@ -1,0 +1,34 @@
+.calc{
+
+    width:20%;
+    height:80%;
+    background-color: grey;
+    margin-left: 40%;
+}
+.lbl{
+    float:right;
+    width:25%;
+    height: 5%;
+    border: black solid 1px;
+    color: white;
+    font-weight: bold;
+}
+#screen{
+    width: 80% ;
+    height:10% ;
+    background-color: white;
+    margin-left: 10%;
+    margin-top: 10%;
+    pointer-events: none;
+}
+.btn-rows{
+    margin:5%;
+    margin-top: 10%;
+
+}
+.btns{
+    width: 20%;
+    height: 10%;
+    margin-right:4%;
+    background: bisque;
+}
